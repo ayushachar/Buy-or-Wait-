@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay IDR 15656000 today and keep the IDR 24768300 minimum protected over the forecast.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay ZAR 6670 today and keep the ZAR 20500 minimum protected over the forecast.
+request_28,497.4,affordable_later,wait,2024-06-14:1302.4,2024-06-14,none,"Wait until 2024-06-14, when EUR 1302.4 is forecast safe while protecting the EUR 1100 minimum."
+request_29,48468.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-23; no eligible safe plan keeps the ZAR 28300 minimum protected.
+request_30,775.2,affordable_now,full_payment,2026-04-06:775.2,2026-04-06,none,Pay USD 775.2 today and keep the USD 900 minimum protected over the forecast.
+request_31,6601767.87,affordable_later,wait,2024-09-15:18164000,2024-09-15,none,"Wait until 2024-09-15, when IDR 18164000 is forecast safe while protecting the IDR 16588900 minimum."
+request_32,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15; no eligible safe plan keeps the ZAR 35700 minimum protected.
+request_33,65180,affordable_later,wait,2026-01-14:118000,2026-01-14,none,"Wait until 2026-01-14, when INR 118000 is forecast safe while protecting the INR 102100 minimum."
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,Pay INR 129400 today and keep the INR 138500 minimum protected over the forecast.
+request_35,57979.73,affordable_later,wait,2025-12-16:212000,2025-12-16,none,"Wait until 2025-12-16, when INR 212000 is forecast safe while protecting the INR 106400 minimum."
+request_36,1179.99,affordable_later,wait,2026-08-16:3954,2026-08-16,none,"Wait until 2026-08-16, when USD 3954 is forecast safe while protecting the USD 2400 minimum."
+request_37,7779491.51,affordable_later,wait,2024-03-17:14649000,2024-03-17,none,"Wait until 2024-03-17, when IDR 14649000 is forecast safe while protecting the IDR 17056200 minimum."
+request_38,303.4,affordable_later,wait,2025-09-13:971.3,2025-09-13,none,"Wait until 2025-09-13, when EUR 971.3 is forecast safe while protecting the EUR 400 minimum."
+request_39,159330.29,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15; no eligible safe plan keeps the INR 213400 minimum protected.
+request_40,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15; no eligible safe plan keeps the EUR 1500 minimum protected.
+request_41,16984515.04,affordable_later,wait,2025-11-15:38760000,2025-11-15,none,"Wait until 2025-11-15, when IDR 38760000 is forecast safe while protecting the IDR 25366600 minimum."
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,Pay INR 52100 today and keep the INR 113100 minimum protected over the forecast.
+request_43,12361117.18,affordable_later,wait,2024-10-13:43339000,2024-10-13,none,"Wait until 2024-10-13, when IDR 43339000 is forecast safe while protecting the IDR 21398000 minimum."
+request_44,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15; no eligible safe plan keeps the INR 82900 minimum protected.
+request_45,6902495.35,affordable_later,wait,2026-08-16:21983000,2026-08-16,none,"Wait until 2026-08-16, when IDR 21983000 is forecast safe while protecting the IDR 11149800 minimum."
+request_46,49450,affordable_now,full_payment,2024-12-03:49450,2024-12-03,none,Pay INR 49450 today and keep the INR 84000 minimum protected over the forecast.
+request_47,38114000,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,Pay IDR 38114000 today and keep the IDR 30049000 minimum protected over the forecast.
+request_48,15915.32,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-24; no eligible safe plan keeps the INR 71300 minimum protected.
+request_49,18212211.64,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-03-17,none,Use installments to complete IDR 34333000 by 2024-05-19 while protecting the IDR 20275700 minimum.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Pay INR 43900 today and keep the INR 99700 minimum protected over the forecast.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay IDR 2191000 today and keep the IDR 7811000 minimum protected over the forecast.
+request_52,26970,affordable_later,wait,2024-06-14:28870,2024-06-14,none,"Wait until 2024-06-14, when INR 28870 is forecast safe while protecting the INR 41500 minimum."
+request_53,791.42,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2025-11-15,none,Use installments to complete USD 1699.2 by 2026-01-16 while protecting the USD 2100 minimum.
+request_54,8842.66,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-21; no eligible safe plan keeps the ZAR 37000 minimum protected.
+request_55,160691.19,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-06-14,none,Use installments to complete INR 218600 by 2026-08-12 while protecting the INR 124300 minimum.
+request_56,881.56,affordable_now,full_payment,2025-02-03:881.56,2025-02-03,none,Pay USD 881.56 today and keep the USD 2100 minimum protected over the forecast.
+request_57,18154.04,affordable_later,wait,2026-05-14:61446,2026-05-14,none,"Wait until 2026-05-14, when ZAR 61446 is forecast safe while protecting the ZAR 42700 minimum."
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,Pay IDR 16226000 today and keep the IDR 14433900 minimum protected over the forecast.
+request_59,140600,affordable_now,full_payment,2025-05-04:140600,2025-05-04,none,Pay INR 140600 today and keep the INR 132600 minimum protected over the forecast.
+request_60,199.89,affordable_now,full_payment,2026-01-06:199.89,2026-01-06,none,Pay USD 199.89 today and keep the USD 400 minimum protected over the forecast.
+request_61,29062,affordable_now,full_payment,2024-03-03:29062,2024-03-03,none,Pay ZAR 29062 today and keep the ZAR 36700 minimum protected over the forecast.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay USD 404.23 today and keep the USD 1300 minimum protected over the forecast.
+request_63,72886.21,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-17; no eligible safe plan keeps the INR 153500 minimum protected.
+request_64,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-16; no eligible safe plan keeps the INR 36100 minimum protected.
+request_65,9602.04,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-25; no eligible safe plan keeps the ZAR 15500 minimum protected.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay INR 22200 today and keep the INR 80700 minimum protected over the forecast.
+request_67,672.22,affordable_later,wait,2024-09-15:2094,2024-09-15,none,"Wait until 2024-09-15, when USD 2094 is forecast safe while protecting the USD 1200 minimum."
+request_68,1979.83,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-02-25,none,Use installments to complete USD 2091.6 by 2025-04-11 while protecting the USD 1500 minimum.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,Pay EUR 529.1 today and keep the EUR 700 minimum protected over the forecast.
+request_70,62404.5,affordable_later,wait,2025-01-16:243900,2025-01-16,none,"Wait until 2025-01-16, when INR 243900 is forecast safe while protecting the INR 115000 minimum."
+request_71,2822029.68,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-05-28; no eligible safe plan keeps the IDR 8884800 minimum protected.
+request_72,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-07-14; no eligible safe plan keeps the ZAR 12200 minimum protected.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,Pay INR 71400 today and keep the INR 103200 minimum protected over the forecast.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay ZAR 5010 today and keep the ZAR 21900 minimum protected over the forecast.
+request_75,28270,affordable_now,full_payment,2026-04-06:28270,2026-04-06,none,Pay ZAR 28270 today and keep the ZAR 39000 minimum protected over the forecast.
+request_76,1372.06,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-30; no eligible safe plan keeps the USD 1800 minimum protected.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,Pay INR 60700 today and keep the INR 82200 minimum protected over the forecast.
+request_78,50200,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,Pay INR 50200 today and keep the INR 55200 minimum protected over the forecast.
+request_79,577.57,affordable_with_plan,partial_payment,2024-09-04:577.57|2024-09-15:1574.03,2024-09-15,none,Use partial payment to complete EUR 2151.6 by 2024-09-15 while protecting the EUR 1000 minimum.
+request_80,127755,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-21; no eligible safe plan keeps the INR 121300 minimum protected.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Pay USD 2076 today and keep the USD 1600 minimum protected over the forecast.
+request_82,671.59,affordable_later,wait,2024-12-16:1405.2,2024-12-16,none,"Wait until 2024-12-16, when USD 1405.2 is forecast safe while protecting the USD 1100 minimum."
+request_83,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-17; no eligible safe plan keeps the INR 37800 minimum protected.
+request_84,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15; no eligible safe plan keeps the INR 91300 minimum protected.
+request_85,1970216.6,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-04-26; no eligible safe plan keeps the IDR 6396300 minimum protected.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay INR 46300 today and keep the INR 84900 minimum protected over the forecast.
+request_87,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-15; no eligible safe plan keeps the INR 185900 minimum protected.
+request_88,12235.89,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-06-14,none,Use installments to complete ZAR 26092 by 2024-08-15 while protecting the ZAR 25800 minimum.
+request_89,11982280.12,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-11-15,none,Use installments to complete IDR 13756000 by 2026-01-13 while protecting the IDR 12534700 minimum.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Pay ZAR 2560 today and keep the ZAR 7600 minimum protected over the forecast.
+request_91,910.75,affordable_later,wait,2024-09-15:1927.2,2024-09-15,none,"Wait until 2024-09-15, when EUR 1927.2 is forecast safe while protecting the EUR 2100 minimum."
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Pay ZAR 34034 today and keep the ZAR 28100 minimum protected over the forecast.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,Pay USD 1729.2 today and keep the USD 1900 minimum protected over the forecast.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,Pay EUR 572 today and keep the EUR 600 minimum protected over the forecast.
+request_95,85816.31,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-14; no eligible safe plan keeps the INR 145500 minimum protected.
+request_96,86778.57,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-12; no eligible safe plan keeps the INR 56500 minimum protected.
+request_97,3152.3,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-03-15,none,Use installments to complete ZAR 23496 by 2024-05-20 while protecting the ZAR 29700 minimum.
+request_98,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15; no eligible safe plan keeps the ZAR 30000 minimum protected.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,Pay ZAR 18062 today and keep the ZAR 49100 minimum protected over the forecast.
+request_100,32614.13,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-14,none,Use installments to complete ZAR 37114 by 2024-08-14 while protecting the ZAR 32500 minimum.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay INR 143500 today and keep the INR 187400 minimum protected over the forecast.
+request_102,1716,affordable_now,full_payment,2026-04-05:1716,2026-04-05,none,Pay EUR 1716 today and keep the EUR 900 minimum protected over the forecast.
+request_103,27556.35,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-10-07; no eligible safe plan keeps the INR 125500 minimum protected.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Pay ZAR 17204 today and keep the ZAR 24700 minimum protected over the forecast.
+request_105,53500,affordable_now,full_payment,2026-06-08:53500,2026-06-08,none,Pay INR 53500 today and keep the INR 73900 minimum protected over the forecast.
+request_106,564.22,affordable_later,wait,2025-01-16:2207.7,2025-01-16,none,"Wait until 2025-01-16, when EUR 2207.7 is forecast safe while protecting the EUR 1200 minimum."
+request_107,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-04; no eligible safe plan keeps the EUR 1600 minimum protected.
+request_108,7836.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-07-26; no eligible safe plan keeps the ZAR 24100 minimum protected.
+request_109,1071.1,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-03-15,none,Use installments to complete EUR 1863.4 by 2024-05-19 while protecting the EUR 1700 minimum.
+request_110,22352,affordable_now,full_payment,2025-08-06:22352,2025-08-06,none,Pay ZAR 22352 today and keep the ZAR 11200 minimum protected over the forecast.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay IDR 16625000 today and keep the IDR 23022800 minimum protected over the forecast.
+request_112,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-06-14; no eligible safe plan keeps the EUR 500 minimum protected.
+request_113,36500,affordable_now,full_payment,2026-09-04:36500,2026-09-04,none,Pay INR 36500 today and keep the INR 82300 minimum protected over the forecast.
+request_114,65300,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,Pay INR 65300 today and keep the INR 113400 minimum protected over the forecast.
+request_115,17208.87,affordable_later,wait,2024-10-16:80500,2024-10-16,none,"Wait until 2024-10-16, when INR 80500 is forecast safe while protecting the INR 38800 minimum."
+request_116,29634.21,not_affordable,not_recommended,none,2025-03-18,none,Do not make this payment by 2025-04-16; no eligible safe plan keeps the INR 80300 minimum protected.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,Pay EUR 880 today and keep the EUR 1000 minimum protected over the forecast.
+request_118,738.1,affordable_now,full_payment,2024-12-07:738.1,2024-12-07,none,Pay EUR 738.1 today and keep the EUR 600 minimum protected over the forecast.
+request_119,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-17; no eligible safe plan keeps the INR 151200 minimum protected.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay IDR 7714000 today and keep the IDR 20050300 minimum protected over the forecast.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,Pay USD 633.6 today and keep the USD 800 minimum protected over the forecast.
+request_122,20558000,affordable_now,full_payment,2025-08-05:20558000,2025-08-05,none,Pay IDR 20558000 today and keep the IDR 12588500 minimum protected over the forecast.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,Pay IDR 4076000 today and keep the IDR 18091200 minimum protected over the forecast.
+request_124,1526.11,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-06-14,none,Use installments to complete EUR 3104.2 by 2024-08-12 while protecting the EUR 1600 minimum.
+request_125,6468,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,Pay ZAR 6468 today and keep the ZAR 11300 minimum protected over the forecast.
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,Pay INR 159600 today and keep the INR 129700 minimum protected over the forecast.
+request_127,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-10-18; no eligible safe plan keeps the ZAR 41000 minimum protected.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,Pay ZAR 25168 today and keep the ZAR 42600 minimum protected over the forecast.
+request_129,233.06,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-18; no eligible safe plan keeps the USD 800 minimum protected.
+request_130,783.16,affordable_later,wait,2024-12-16:1978.8,2024-12-16,none,"Wait until 2024-12-16, when USD 1978.8 is forecast safe while protecting the USD 1400 minimum."
+request_131,1607.83,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-26,none,Use installments to complete USD 1855.2 by 2025-07-01 while protecting the USD 1100 minimum.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,Pay USD 379.86 today and keep the USD 1100 minimum protected over the forecast.
+request_133,5021442.48,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-03-29; no eligible safe plan keeps the IDR 9986200 minimum protected.
+request_134,7818323.97,affordable_later,wait,2025-08-14:21831000,2025-08-14,none,"Wait until 2025-08-14, when IDR 21831000 is forecast safe while protecting the IDR 15902500 minimum."
+request_135,304.8,affordable_now,full_payment,2026-07-06:304.8,2026-07-06,none,Pay USD 304.8 today and keep the USD 500 minimum protected over the forecast.
+request_136,560.4,affordable_now,full_payment,2024-06-03:560.4,2024-06-03,none,Pay USD 560.4 today and keep the USD 1100 minimum protected over the forecast.
+request_137,45584.87,affordable_later,wait,2025-11-15:80100,2025-11-15,none,"Wait until 2025-11-15, when INR 80100 is forecast safe while protecting the INR 71800 minimum."
+request_138,1209.9,affordable_with_plan,partial_payment,2026-04-07:1209.9|2026-04-14:47.04,2026-04-14,none,Use partial payment to complete EUR 1256.94 by 2026-04-14 while protecting the EUR 2300 minimum.
+request_139,1621.6,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-15,none,Use installments to complete USD 2316 by 2024-11-08 while protecting the USD 1500 minimum.
+request_140,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-04; no eligible safe plan keeps the ZAR 21600 minimum protected.
+request_141,43109.16,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-02-12; no eligible safe plan keeps the INR 67300 minimum protected.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,Pay USD 1263.6 today and keep the USD 1700 minimum protected over the forecast.
+request_143,4645.81,affordable_later,wait,2025-06-14:12584,2025-06-14,none,"Wait until 2025-06-14, when ZAR 12584 is forecast safe while protecting the ZAR 11300 minimum."
+request_144,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-07-26; no eligible safe plan keeps the USD 600 minimum protected.
+request_145,70069.28,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-03-17,none,Use installments to complete INR 217400 by 2024-05-21 while protecting the INR 155400 minimum.
+request_146,38715.5,affordable_later,wait,2025-09-13:449400,2025-09-13,none,"Wait until 2025-09-13, when INR 449400 is forecast safe while protecting the INR 108600 minimum."
+request_147,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-07; no eligible safe plan keeps the EUR 900 minimum protected.
+request_148,13181.08,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-06-14,none,Use installments to complete ZAR 22242 by 2024-08-15 while protecting the ZAR 20000 minimum.
+request_149,34068.05,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-11-15,none,Use installments to complete ZAR 36652 by 2026-01-13 while protecting the ZAR 42100 minimum.
+request_150,473.74,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-01-14,none,Use installments to complete EUR 496.1 by 2026-03-07 while protecting the EUR 700 minimum.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Pay IDR 26999000 today and keep the IDR 31633600 minimum protected over the forecast.
+request_152,12643.75,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-15,none,Use installments to complete ZAR 13882 by 2025-04-09 while protecting the ZAR 11900 minimum.
+request_153,454.6,affordable_later,wait,2026-09-16:2830.8,2026-09-16,none,"Wait until 2026-09-16, when USD 2830.8 is forecast safe while protecting the USD 1400 minimum."
+request_154,1625.8,affordable_now,full_payment,2024-12-04:1625.8,2024-12-04,none,Pay EUR 1625.8 today and keep the EUR 1300 minimum protected over the forecast.
+request_155,89751.05,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-05-20; no eligible safe plan keeps the INR 56300 minimum protected.
+request_156,11847.69,affordable_later,wait,2026-05-14:43076,2026-05-14,none,"Wait until 2026-05-14, when ZAR 43076 is forecast safe while protecting the ZAR 26900 minimum."
+request_157,8712850.64,affordable_later,wait,2024-03-17:23503000,2024-03-17,none,"Wait until 2024-03-17, when IDR 23503000 is forecast safe while protecting the IDR 15714100 minimum."
+request_158,242600,affordable_now,full_payment,2025-08-07:242600,2025-08-07,none,Pay INR 242600 today and keep the INR 131400 minimum protected over the forecast.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,Pay ZAR 13398 today and keep the ZAR 8700 minimum protected over the forecast.
+request_160,658.61,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-06-14,none,Use installments to complete EUR 1246.3 by 2024-08-14 while protecting the EUR 1200 minimum.
+request_161,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15; no eligible safe plan keeps the IDR 23010400 minimum protected.
+request_162,6308866.14,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-26; no eligible safe plan keeps the IDR 24161100 minimum protected.
+request_163,14958298.68,affordable_with_plan,installments,2024-09-10:6692053.33|2024-10-11:6692053.33|2024-11-11:6692053.33,2024-09-15,none,Use installments to complete IDR 19304000 by 2024-11-11 while protecting the IDR 26728700 minimum.
+request_164,27018000,affordable_now,full_payment,2025-02-04:27018000,2025-02-04,none,Pay IDR 27018000 today and keep the IDR 29550500 minimum protected over the forecast.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Pay INR 80600 today and keep the INR 95000 minimum protected over the forecast.
+request_166,2907.6,affordable_now,full_payment,2024-12-03:2907.6,2024-12-03,none,Pay USD 2907.6 today and keep the USD 1700 minimum protected over the forecast.
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,Pay ZAR 43802 today and keep the ZAR 31200 minimum protected over the forecast.
+request_168,49380,affordable_now,full_payment,2026-01-07:49380,2026-01-07,none,Pay INR 49380 today and keep the INR 114400 minimum protected over the forecast.
+request_169,27057.19,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-16; no eligible safe plan keeps the ZAR 18700 minimum protected.
+request_170,35327330.43,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-08-14,none,Use installments to complete IDR 36936000 by 2025-10-01 while protecting the IDR 24715800 minimum.
+request_171,166.65,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-10; no eligible safe plan keeps the EUR 500 minimum protected.
+request_172,10200,affordable_now,full_payment,2024-06-05:10200,2024-06-05,none,Pay ZAR 10200 today and keep the ZAR 27200 minimum protected over the forecast.
+request_173,66420.01,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-17; no eligible safe plan keeps the INR 79100 minimum protected.
+request_174,1146.2,affordable_now,full_payment,2026-04-04:1146.2,2026-04-04,none,Pay EUR 1146.2 today and keep the EUR 700 minimum protected over the forecast.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,Pay EUR 2346.3 today and keep the EUR 1700 minimum protected over the forecast.
+request_176,585.02,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-27; no eligible safe plan keeps the EUR 600 minimum protected.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,Pay USD 1017.6 today and keep the USD 1300 minimum protected over the forecast.
+request_178,2938.1,affordable_now,full_payment,2024-12-07:2938.1,2024-12-07,none,Pay EUR 2938.1 today and keep the EUR 1400 minimum protected over the forecast.
+request_179,14926596.29,affordable_later,wait,2025-06-14:41648000,2025-06-14,none,"Wait until 2025-06-14, when IDR 41648000 is forecast safe while protecting the IDR 41430800 minimum."
+request_180,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-02; no eligible safe plan keeps the INR 37300 minimum protected.
+request_181,792.92,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-04-07; no eligible safe plan keeps the USD 2000 minimum protected.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Pay ZAR 65714 today and keep the ZAR 31100 minimum protected over the forecast.
+request_183,5175652.02,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-18; no eligible safe plan keeps the IDR 11878300 minimum protected.
+request_184,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-30; no eligible safe plan keeps the INR 110800 minimum protected.
+request_185,587.33,affordable_later,wait,2025-11-15:1257.3,2025-11-15,none,"Wait until 2025-11-15, when EUR 1257.3 is forecast safe while protecting the EUR 1300 minimum."
+request_186,20126.2,affordable_later,wait,2026-01-14:26554,2026-01-14,none,"Wait until 2026-01-14, when ZAR 26554 is forecast safe while protecting the ZAR 22000 minimum."
+request_187,61230.71,affordable_later,wait,2024-10-13:187500,2024-10-13,none,"Wait until 2024-10-13, when INR 187500 is forecast safe while protecting the INR 128300 minimum."
+request_188,274.3,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-04; no eligible safe plan keeps the EUR 900 minimum protected.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,Pay EUR 488.4 today and keep the EUR 400 minimum protected over the forecast.
+request_190,975.45,affordable_later,wait,2024-12-15:2557.5,2024-12-15,none,"Wait until 2024-12-15, when EUR 2557.5 is forecast safe while protecting the EUR 1600 minimum."
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,Pay EUR 664.4 today and keep the EUR 500 minimum protected over the forecast.
+request_192,384.8,affordable_later,wait,2026-04-27:2046,2026-04-27,none,"Wait until 2026-04-27, when USD 2046 is forecast safe while protecting the USD 1000 minimum."
+request_193,310.62,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-03-17,none,Use installments to complete EUR 1212.2 by 2024-05-22 while protecting the EUR 1000 minimum.
+request_194,64739.78,affordable_later,wait,2025-09-27:132800,2025-09-27,none,"Wait until 2025-09-27, when INR 132800 is forecast safe while protecting the INR 113600 minimum."
+request_195,1170.4,affordable_now,full_payment,2026-01-06:1170.4,2026-01-06,none,Pay EUR 1170.4 today and keep the EUR 700 minimum protected over the forecast.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,Pay EUR 762.3 today and keep the EUR 500 minimum protected over the forecast.
+request_197,1739027.88,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-21; no eligible safe plan keeps the IDR 26245900 minimum protected.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay INR 185800 today and keep the INR 124300 minimum protected over the forecast.
+request_199,23674000,affordable_now,full_payment,2024-09-04:23674000,2024-09-04,none,Pay IDR 23674000 today and keep the IDR 25359500 minimum protected over the forecast.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Pay IDR 21717000 today and keep the IDR 20114600 minimum protected over the forecast.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay IDR 23997000 today and keep the IDR 17304500 minimum protected over the forecast.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay INR 123900 today and keep the INR 147800 minimum protected over the forecast.
+request_203,1442.1,affordable_now,full_payment,2025-05-07:1442.1,2025-05-07,none,Pay EUR 1442.1 today and keep the EUR 1400 minimum protected over the forecast.
+request_204,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-31; no eligible safe plan keeps the EUR 1300 minimum protected.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay IDR 10621000 today and keep the IDR 13994300 minimum protected over the forecast.
+request_206,1404.7,affordable_now,full_payment,2025-08-03:1404.7,2025-08-03,none,Pay EUR 1404.7 today and keep the EUR 900 minimum protected over the forecast.
+request_207,8717.59,affordable_later,wait,2026-07-15:11830,2026-07-15,none,"Wait until 2026-07-15, when ZAR 11830 is forecast safe while protecting the ZAR 13600 minimum."
+request_208,4413000,affordable_now,full_payment,2024-06-07:4413000,2024-06-07,none,Pay IDR 4413000 today and keep the IDR 10470700 minimum protected over the forecast.
+request_209,4836.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-25; no eligible safe plan keeps the ZAR 18400 minimum protected.
+request_210,1223.93,affordable_with_plan,partial_payment,2026-04-06:1223.93|2026-04-14:136.09,2026-04-14,none,Use partial payment to complete USD 1360.02 by 2026-04-14 while protecting the USD 2000 minimum.
+request_211,650.42,affordable_later,wait,2024-09-15:1788.6,2024-09-15,none,"Wait until 2024-09-15, when EUR 1788.6 is forecast safe while protecting the EUR 1500 minimum."
+request_212,15236998.68,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-28; no eligible safe plan keeps the IDR 29579800 minimum protected.
+request_213,3362.4,affordable_now,full_payment,2026-01-07:3362.4,2026-01-07,none,Pay USD 3362.4 today and keep the USD 2100 minimum protected over the forecast.
+request_214,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-01-28; no eligible safe plan keeps the INR 174900 minimum protected.
+request_215,29986,affordable_now,full_payment,2025-05-06:29986,2025-05-06,none,Pay ZAR 29986 today and keep the ZAR 15700 minimum protected over the forecast.
+request_216,882.02,affordable_later,wait,2026-08-16:3332.4,2026-08-16,none,"Wait until 2026-08-16, when USD 3332.4 is forecast safe while protecting the USD 1800 minimum."
+request_217,25615.32,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-15,none,Use installments to complete ZAR 37180 by 2024-05-20 while protecting the ZAR 26800 minimum.
+request_218,32191114.8,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-08-14,none,Use installments to complete IDR 61142000 by 2025-10-02 while protecting the IDR 34477200 minimum.
+request_219,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-13; no eligible safe plan keeps the EUR 1100 minimum protected.
+request_220,307.32,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-03; no eligible safe plan keeps the EUR 1100 minimum protected.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay INR 109800 today and keep the INR 81500 minimum protected over the forecast.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Pay ZAR 34078 today and keep the ZAR 27300 minimum protected over the forecast.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,Pay EUR 898.7 today and keep the EUR 800 minimum protected over the forecast.
+request_224,10327000,affordable_now,full_payment,2025-02-04:10327000,2025-02-04,none,Pay IDR 10327000 today and keep the IDR 22187600 minimum protected over the forecast.
+request_225,14165674.44,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-07-16,none,Use installments to complete IDR 22059000 by 2026-09-18 while protecting the IDR 17670700 minimum.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Pay INR 157000 today and keep the INR 209400 minimum protected over the forecast.
+request_227,17042.53,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-20; no eligible safe plan keeps the INR 62900 minimum protected.
+request_228,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-04-30; no eligible safe plan keeps the IDR 26191200 minimum protected.
+request_229,651.61,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-04-17,none,Use installments to complete EUR 1526.8 by 2024-05-19 while protecting the EUR 1000 minimum.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,Pay EUR 3537.6 today and keep the EUR 2000 minimum protected over the forecast.
+request_231,35706,affordable_now,full_payment,2026-01-03:35706,2026-01-03,none,Pay ZAR 35706 today and keep the ZAR 24300 minimum protected over the forecast.
+request_232,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15; no eligible safe plan keeps the EUR 2400 minimum protected.
+request_233,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-12-17; no eligible safe plan keeps the IDR 10365700 minimum protected.
+request_234,337.05,affordable_later,wait,2026-08-16:1213.3,2026-08-16,none,"Wait until 2026-08-16, when EUR 1213.3 is forecast safe while protecting the EUR 700 minimum."
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,Pay USD 967.2 today and keep the USD 700 minimum protected over the forecast.
+request_236,9455662.5,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-23; no eligible safe plan keeps the IDR 16768600 minimum protected.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Pay IDR 23826000 today and keep the IDR 22431500 minimum protected over the forecast.
+request_238,663.6,affordable_now,full_payment,2024-12-07:663.6,2024-12-07,none,Pay USD 663.6 today and keep the USD 700 minimum protected over the forecast.
+request_239,642,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,Pay USD 642 today and keep the USD 600 minimum protected over the forecast.
+request_240,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-20; no eligible safe plan keeps the INR 52800 minimum protected.
+request_241,21052000,affordable_now,full_payment,2024-03-03:21052000,2024-03-03,none,Pay IDR 21052000 today and keep the IDR 19252000 minimum protected over the forecast.
+request_242,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-08-25; no eligible safe plan keeps the EUR 600 minimum protected.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay ZAR 17468 today and keep the ZAR 19900 minimum protected over the forecast.
+request_244,48217.92,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-16; no eligible safe plan keeps the ZAR 45900 minimum protected.
+request_245,54870.64,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15; no eligible safe plan keeps the INR 94600 minimum protected.
+request_246,64086,affordable_now,full_payment,2026-04-03:64086,2026-04-03,none,Pay ZAR 64086 today and keep the ZAR 39300 minimum protected over the forecast.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,Pay EUR 1059.3 today and keep the EUR 1300 minimum protected over the forecast.
+request_248,1271.36,affordable_with_plan,partial_payment,2025-02-07:1271.36|2025-04-18:694.24,2025-04-18,none,Use partial payment to complete USD 1965.6 by 2025-04-18 while protecting the USD 1300 minimum.
+request_249,268.5,affordable_later,wait,2026-02-13:643.2,2026-02-13,none,"Wait until 2026-02-13, when USD 643.2 is forecast safe while protecting the USD 600 minimum."
+request_250,18049.37,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-01-18; no eligible safe plan keeps the ZAR 35300 minimum protected.
+request_251,1513.6,affordable_now,full_payment,2025-05-03:1513.6,2025-05-03,none,Pay EUR 1513.6 today and keep the EUR 1300 minimum protected over the forecast.
+request_252,7477969.93,affordable_later,wait,2026-08-16:28082000,2026-08-16,none,"Wait until 2026-08-16, when IDR 28082000 is forecast safe while protecting the IDR 15152200 minimum."
+request_253,1819.57,affordable_with_plan,installments,2024-03-21:984.6|2024-04-21:984.6|2024-05-22:984.6,2024-03-17,none,Use installments to complete EUR 2840.2 by 2024-05-22 while protecting the EUR 2300 minimum.
+request_254,1229.44,affordable_later,wait,2025-09-13:3535.2,2025-09-13,none,"Wait until 2025-09-13, when USD 3535.2 is forecast safe while protecting the USD 2500 minimum."
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Pay IDR 3345000 today and keep the IDR 9813900 minimum protected over the forecast.
+request_256,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-19; no eligible safe plan keeps the INR 168600 minimum protected.
+request_257,877.72,affordable_later,wait,2025-11-15:1352.4,2025-11-15,none,"Wait until 2025-11-15, when USD 1352.4 is forecast safe while protecting the USD 1600 minimum."
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,Pay USD 1113.6 today and keep the USD 500 minimum protected over the forecast.
+request_259,254.14,affordable_later,wait,2024-10-16:935,2024-10-16,none,"Wait until 2024-10-16, when EUR 935 is forecast safe while protecting the EUR 600 minimum."
+request_260,12688200,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-18; no eligible safe plan keeps the IDR 20727700 minimum protected.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,Pay EUR 1830.4 today and keep the EUR 1500 minimum protected over the forecast.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Pay IDR 9236000 today and keep the IDR 31018500 minimum protected over the forecast.
+request_263,11549.47,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-15; no eligible safe plan keeps the ZAR 24100 minimum protected.
+request_264,34030.63,affordable_later,wait,2026-05-14:111300,2026-05-14,none,"Wait until 2026-05-14, when INR 111300 is forecast safe while protecting the INR 59500 minimum."
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,Pay INR 45970 today and keep the INR 189700 minimum protected over the forecast.
+request_266,935,affordable_now,full_payment,2025-08-03:935,2025-08-03,none,Pay EUR 935 today and keep the EUR 900 minimum protected over the forecast.
+request_267,1925,affordable_now,full_payment,2026-01-05:1925,2026-01-05,none,Pay EUR 1925 today and keep the EUR 1500 minimum protected over the forecast.
+request_268,1148.52,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-14,none,Use installments to complete EUR 2426.6 by 2024-08-15 while protecting the EUR 1400 minimum.
+request_269,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-02; no eligible safe plan keeps the ZAR 23100 minimum protected.
+request_270,364.65,not_affordable,not_recommended,none,2026-08-16,none,Do not make this payment by 2026-08-30; no eligible safe plan keeps the USD 1400 minimum protected.
+request_271,36042.84,affordable_later,wait,2024-10-16:91300,2024-10-16,none,"Wait until 2024-10-16, when INR 91300 is forecast safe while protecting the INR 58200 minimum."
+request_272,7039871.13,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-02-15,none,Use installments to complete IDR 13585000 by 2025-04-09 while protecting the IDR 7508600 minimum.
+request_273,13372200,affordable_with_plan,partial_payment,2026-04-07:13372200|2026-04-14:2488800,2026-04-14,none,Use partial payment to complete IDR 15861000 by 2026-04-14 while protecting the IDR 18774600 minimum.
+request_274,2713.7,affordable_now,full_payment,2024-12-04:2713.7,2024-12-04,none,Pay EUR 2713.7 today and keep the EUR 1800 minimum protected over the forecast.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay IDR 15884000 today and keep the IDR 12760100 minimum protected over the forecast.
